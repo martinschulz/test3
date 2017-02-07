@@ -6,9 +6,12 @@ VAR
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[//ergänzung 1]]></ST>
+      <ST><![CDATA[//ergänzung 1
+//ergänzung 2
+]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
+      <LineId Id="6" Count="1" />
       <LineId Id="2" Count="0" />
     </LineIds>
   </POU>
